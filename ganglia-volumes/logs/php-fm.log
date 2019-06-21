@@ -1,0 +1,6 @@
+[ERROR] Another FPM instance seems to already listen on /run/php-fpm/php-fpm.sock
+[ERROR] FPM initialization failed
+[ERROR] Another FPM instance seems to already listen on /run/php-fpm/php-fpm.sock
+[ERROR] FPM initialization failed
+[ERROR] Another FPM instance seems to already listen on /run/php-fpm/php-fpm.sock
+[ERROR] FPM initialization failed
